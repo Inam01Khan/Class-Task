@@ -1,0 +1,37 @@
+body{
+    background-image: url('./Task/img1.jpg');
+    background-size: 1700px 600px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+.logo{
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(255, 250, 250);
+    margin: 10px;
+    
+
+}
+
+.container{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    display: flex;
+    place-content: Center;
+    margin-top: 80px;
+}
+
+.para{
+    color: rgb(255, 255, 255);
+    width: 100px;
+    display: flex;
+    place-content: center;
+    margin: 0px auto;
+    border-top: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    font-size: larger;
+    font-style: bold;
+
+}
